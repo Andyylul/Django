@@ -1,0 +1,1 @@
+cambiar la ruta a todas las imagenes etc "assets" < "arte_app"
